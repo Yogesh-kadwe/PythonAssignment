@@ -1,3 +1,4 @@
+print("Employee Salary Calculation")
 name=input("Enter your name: ")
 emp_id=input("Enter your employee ID: ")
 deperment=input("Enter your department: ")
